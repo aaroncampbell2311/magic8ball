@@ -1,0 +1,27 @@
+.circle {
+	  display:inline-block;
+    border-radius: 50%/50%; 
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    color:white;
+    background: black;
+    float: right !important;
+}
+
+.square {
+    color: white;
+	border-radius: 5px;
+	height: 300px;
+	width: 150px;
+	background-color: black;
+	text-align: center;
+}
+.ansDisplay {
+
+
+}
+
+.ask {
+
+}
